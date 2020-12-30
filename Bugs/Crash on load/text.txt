@@ -1,0 +1,660 @@
+00007FFDB77CC8FA ??                   ?? ?? 
+Nieobsłużony wyjątek w lokalizacji 0x00007FF749AAD9D5 w Unity.exe: 0xC0000005: Naruszenie zasad dostępu podczas odczytywania w lokalizacji 0x000001F8AAAF45AC.
+
+
+
+
+
+
+
+
+
+
+
+00007FFDB77CC8F6 ??                   ?? ?? 
+00007FFDB77CC8F7 ??                   ?? ?? 
+00007FFDB77CC8F8 ??                   ?? ?? 
+00007FFDB77CC8F9 ??                   ?? ?? 
+00007FFDB77CC8FA ??                   ?? ?? 
+00007FFDB77CC8FB ??                   ?? ?? 
+00007FFDB77CC8FC ??                   ?? ?? 
+00007FFDB77CC8FD ??                   ?? ?? 
+00007FFDB77CC8FE ??                   ?? ?? 
+00007FFDB77CC8FF ??                   ?? ?? 
+00007FFDB77CC900 ??                   ?? ?? 
+00007FFDB77CC901 ??                   ?? ?? 
+00007FFDB77CC902 ??                   ?? ?? 
+00007FFDB77CC903 ??                   ?? ?? 
+00007FFDB77CC904 ??                   ?? ?? 
+00007FFDB77CC905 ??                   ?? ?? 
+00007FFDB77CC906 ??                   ?? ?? 
+00007FFDB77CC907 ??                   ?? ?? 
+00007FFDB77CC908 ??                   ?? ?? 
+00007FFDB77CC909 ??                   ?? ?? 
+00007FFDB77CC90A ??                   ?? ?? 
+00007FFDB77CC90B ??                   ?? ?? 
+00007FFDB77CC90C ??                   ?? ?? 
+00007FFDB77CC90D ??                   ?? ?? 
+00007FFDB77CC90E ??                   ?? ?? 
+00007FFDB77CC90F ??                   ?? ?? 
+00007FFDB77CC910 ??                   ?? ?? 
+00007FFDB77CC911 ??                   ?? ?? 
+00007FFDB77CC912 ??                   ?? ?? 
+00007FFDB77CC913 ??                   ?? ?? 
+00007FFDB77CC914 ??                   ?? ?? 
+00007FFDB77CC915 ??                   ?? ?? 
+00007FFDB77CC916 ??                   ?? ?? 
+00007FFDB77CC917 ??                   ?? ?? 
+00007FFDB77CC918 C0 0F 84             ror         byte ptr [rdi],84h  
+00007FFDB77CC91B ??                   ?? ?? 
+00007FFDB77CC91C ??                   ?? ?? 
+00007FFDB77CC91D ??                   ?? ?? 
+00007FFDB77CC91E ??                   ?? ?? 
+00007FFDB77CC91F ??                   ?? ?? 
+00007FFDB77CC920 ??                   ?? ?? 
+00007FFDB77CC921 ??                   ?? ?? 
+00007FFDB77CC922 ??                   ?? ?? 
+00007FFDB77CC923 ??                   ?? ?? 
+00007FFDB77CC924 ??                   ?? ?? 
+00007FFDB77CC925 ??                   ?? ?? 
+00007FFDB77CC926 ??                   ?? ?? 
+00007FFDB77CC927 ??                   ?? ?? 
+00007FFDB77CC928 ??                   ?? ?? 
+00007FFDB77CC929 ??                   ?? ?? 
+00007FFDB77CC92A ??                   ?? ?? 
+00007FFDB77CC92B ??                   ?? ?? 
+00007FFDB77CC92C ??                   ?? ?? 
+00007FFDB77CC92D ??                   ?? ?? 
+00007FFDB77CC92E ??                   ?? ?? 
+00007FFDB77CC92F ??                   ?? ?? 
+00007FFDB77CC930 ??                   ?? ?? 
+00007FFDB77CC931 ??                   ?? ?? 
+00007FFDB77CC932 ??                   ?? ?? 
+00007FFDB77CC933 ??                   ?? ?? 
+00007FFDB77CC934 ??                   ?? ?? 
+00007FFDB77CC935 ??                   ?? ?? 
+00007FFDB77CC936 ??                   ?? ?? 
+00007FFDB77CC937 ??                   ?? ?? 
+00007FFDB77CC938 ??                   ?? ?? 
+00007FFDB77CC939 ??                   ?? ?? 
+00007FFDB77CC93A ??                   ?? ?? 
+00007FFDB77CC93B ??                   ?? ?? 
+00007FFDB77CC93C ??                   ?? ?? 
+00007FFDB77CC93D F7 02 00 3D 02 01    test        dword ptr [rdx],1023D00h  
+00007FFDB77CC943 ??                   ?? ?? 
+00007FFDB77CC944 ??                   ?? ?? 
+00007FFDB77CC945 ??                   ?? ?? 
+00007FFDB77CC946 ??                   ?? ?? 
+00007FFDB77CC947 ??                   ?? ?? 
+00007FFDB77CC948 ??                   ?? ?? 
+00007FFDB77CC949 ??                   ?? ?? 
+00007FFDB77CC94A ??                   ?? ?? 
+00007FFDB77CC94B ??                   ?? ?? 
+00007FFDB77CC94C ??                   ?? ?? 
+00007FFDB77CC94D ??                   ?? ?? 
+00007FFDB77CC94E ??                   ?? ?? 
+00007FFDB77CC94F ??                   ?? ?? 
+00007FFDB77CC950 ??                   ?? ?? 
+00007FFDB77CC951 ??                   ?? ?? 
+00007FFDB77CC952 ??                   ?? ?? 
+00007FFDB77CC953 ??                   ?? ?? 
+00007FFDB77CC954 ??                   ?? ?? 
+00007FFDB77CC955 ??                   ?? ?? 
+00007FFDB77CC956 ??                   ?? ?? 
+00007FFDB77CC957 ??                   ?? ?? 
+00007FFDB77CC958 ??                   ?? ?? 
+00007FFDB77CC959 ??                   ?? ?? 
+00007FFDB77CC95A ??                   ?? ?? 
+00007FFDB77CC95B ??                   ?? ?? 
+00007FFDB77CC95C ??                   ?? ?? 
+00007FFDB77CC95D ??                   ?? ?? 
+00007FFDB77CC95E ??                   ?? ?? 
+00007FFDB77CC95F ??                   ?? ?? 
+00007FFDB77CC960 ??                   ?? ?? 
+00007FFDB77CC961 ??                   ?? ?? 
+00007FFDB77CC962 ??                   ?? ?? 
+00007FFDB77CC963 ??                   ?? ?? 
+00007FFDB77CC964 A4                   movs        byte ptr [rdi],byte ptr [rsi]  
+00007FFDB77CC965 00 00                add         byte ptr [rax],al  
+00007FFDB77CC967 00 8B 8B 4C 01 00    add         byte ptr [rbx+14C8Bh],cl  
+00007FFDB77CC96D 00 8B F8 41 84 CF    add         byte ptr [rbx-307BBE08h],cl  
+00007FFDB77CC973 0F 85 1F 3B 05 00    jne         memset+1D518h (07FFDB7820498h)  
+00007FFDB77CC979 F6 C1 04             test        cl,4  
+00007FFDB77CC97C 0F 85 3E 3B 05 00    jne         memset+1D540h (07FFDB78204C0h)  
+00007FFDB77CC982 41 84 CF             test        r15b,cl  
+00007FFDB77CC985 0F 85 35 3B 05 00    jne         memset+1D540h (07FFDB78204C0h)  
+00007FFDB77CC98B F6 C1 10             test        cl,10h  
+00007FFDB77CC98E 0F 85 A7 3B 05 00    jne         memset+1D5BBh (07FFDB782053Bh)  
+00007FFDB77CC994 F6 C1 06             test        cl,6  
+00007FFDB77CC997 0F 85 CA 3B 05 00    jne         memset+1D5E7h (07FFDB7820567h)  
+00007FFDB77CC99D 85 FF                test        edi,edi  
+00007FFDB77CC99F 0F 88 DF 3B 05 00    js          memset+1D604h (07FFDB7820584h)  
+00007FFDB77CC9A5 8B 83 48 01 00 00    mov         eax,dword ptr [rbx+148h]  
+00007FFDB77CC9AB 85 C0                test        eax,eax  
+00007FFDB77CC9AD 0F 85 73 FF FF FF    jne         EtwpLogger+66h (07FFDB77CC926h)  
+00007FFDB77CC9B3 41 8B D7             mov         edx,r15d  
+00007FFDB77CC9B6 48 8B CB             mov         rcx,rbx  
+00007FFDB77CC9B9 E8 4E 00 00 00       call        EtwpFlushActiveBuffers (07FFDB77CCA0Ch)  
+00007FFDB77CC9BE 33 D2                xor         edx,edx  
+00007FFDB77CC9C0 48 8B CB             mov         rcx,rbx  
+00007FFDB77CC9C3 E8 B8 A1 01 00       call        EtwpFinalizeLogFileHeader (07FFDB77E6B80h)  
+00007FFDB77CC9C8 48 8B 8B 90 00 00 00 mov         rcx,qword ptr [rbx+90h]  
+00007FFDB77CC9CF 8B F8                mov         edi,eax  
+00007FFDB77CC9D1 E8 6A F8 02 00       call        NtClose (07FFDB77FC240h)  
+00007FFDB77CC9D6 48 89 AB 90 00 00 00 mov         qword ptr [rbx+90h],rbp  
+00007FFDB77CC9DD 85 FF                test        edi,edi  
+00007FFDB77CC9DF 0F 8F AD 3B 05 00    jg          memset+1D612h (07FFDB7820592h)  
+00007FFDB77CC9E5 48 8B 8B 88 00 00 00 mov         rcx,qword ptr [rbx+88h]  
+00007FFDB77CC9EC 33 D2                xor         edx,edx  
+00007FFDB77CC9EE 89 7B 28             mov         dword ptr [rbx+28h],edi  
+00007FFDB77CC9F1 E8 2A F8 02 00       call        NtSetEvent (07FFDB77FC220h)  
+00007FFDB77CC9F6 48 8B CB             mov         rcx,rbx  
+00007FFDB77CC9F9 E8 7A A4 01 00       call        EtwpFreeLoggerContext (07FFDB77E6E78h)  
+00007FFDB77CC9FE 33 C9                xor         ecx,ecx  
+00007FFDB77CCA00 E8 7B 04 00 00       call        RtlExitUserThread (07FFDB77CCE80h)  
+00007FFDB77CCA05 CC                   int         3  
+00007FFDB77CCA06 CC                   int         3  
+00007FFDB77CCA07 CC                   int         3  
+00007FFDB77CCA08 CC                   int         3  
+00007FFDB77CCA09 CC                   int         3  
+00007FFDB77CCA0A CC                   int         3  
+00007FFDB77CCA0B CC                   int         3  
+EtwpFlushActiveBuffers:
+00007FFDB77CCA0C 48 89 5C 24 08       mov         qword ptr [rsp+8],rbx  
+00007FFDB77CCA11 48 89 6C 24 18       mov         qword ptr [rsp+18h],rbp  
+00007FFDB77CCA16 48 89 74 24 20       mov         qword ptr [rsp+20h],rsi  
+00007FFDB77CCA1B 57                   push        rdi  
+00007FFDB77CCA1C 41 54                push        r12  
+00007FFDB77CCA1E 41 55                push        r13  
+00007FFDB77CCA20 41 56                push        r14  
+00007FFDB77CCA22 41 57                push        r15  
+00007FFDB77CCA24 48 83 EC 20          sub         rsp,20h  
+00007FFDB77CCA28 44 8B B1 D0 00 00 00 mov         r14d,dword ptr [rcx+0D0h]  
+00007FFDB77CCA2F 48 8D 69 58          lea         rbp,[rcx+58h]  
+00007FFDB77CCA33 8B B9 CC 00 00 00    mov         edi,dword ptr [rcx+0CCh]  
+00007FFDB77CCA39 48 8B D9             mov         rbx,rcx  
+00007FFDB77CCA3C 45 33 E4             xor         r12d,r12d  
+00007FFDB77CCA3F 48 8B CD             mov         rcx,rbp  
+00007FFDB77CCA42 44 8B FA             mov         r15d,edx  
+00007FFDB77CCA45 41 8B F4             mov         esi,r12d  
+00007FFDB77CCA48 45 0F B7 EC          movzx       r13d,r12w  
+00007FFDB77CCA4C E8 2F E9 FA FF       call        RtlEnterCriticalSection (07FFDB777B380h)  
+00007FFDB77CCA51 41 83 FF 01          cmp         r15d,1  
+00007FFDB77CCA55 0F 84 1A 01 00 00    je          EtwpFlushActiveBuffers+169h (07FFDB77CCB75h)  
+00007FFDB77CCA5B 48 8B 83 10 01 00 00 mov         rax,qword ptr [rbx+110h]  
+00007FFDB77CCA62 48 3B 83 18 01 00 00 cmp         rax,qword ptr [rbx+118h]  
+00007FFDB77CCA69 0F 84 68 01 00 00    je          EtwpFlushActiveBuffers+1CBh (07FFDB77CCBD7h)  
+00007FFDB77CCA6F 48 8B 38             mov         rdi,qword ptr [rax]  
+00007FFDB77CCA72 4C 89 20             mov         qword ptr [rax],r12  
+00007FFDB77CCA75 48 8B 83 10 01 00 00 mov         rax,qword ptr [rbx+110h]  
+00007FFDB77CCA7C 48 89 83 18 01 00 00 mov         qword ptr [rbx+118h],rax  
+00007FFDB77CCA83 48 8B CD             mov         rcx,rbp  
+00007FFDB77CCA86 E8 F5 DE FC FF       call        RtlLeaveCriticalSection (07FFDB779A980h)  
+00007FFDB77CCA8B 48 85 FF             test        rdi,rdi  
+00007FFDB77CCA8E 0F 84 B1 00 00 00    je          EtwpFlushActiveBuffers+139h (07FFDB77CCB45h)  
+00007FFDB77CCA94 45 85 FF             test        r15d,r15d  
+00007FFDB77CCA97 45 8B F4             mov         r14d,r12d  
+00007FFDB77CCA9A 41 0F 95 C6          setne       r14b  
+00007FFDB77CCA9E 48 8B 0F             mov         rcx,qword ptr [rdi]  
+00007FFDB77CCAA1 41 0F B7 C6          movzx       eax,r14w  
+00007FFDB77CCAA5 48 85 C9             test        rcx,rcx  
+00007FFDB77CCAA8 4C 8B FF             mov         r15,rdi  
+00007FFDB77CCAAB 66 41 0F 45 C5       cmovne      ax,r13w  
+00007FFDB77CCAB0 4C 8B EF             mov         r13,rdi  
+00007FFDB77CCAB3 48 8B F9             mov         rdi,rcx  
+00007FFDB77CCAB6 66 89 44 24 58       mov         word ptr [rsp+58h],ax  
+00007FFDB77CCABB 49 83 C5 E0          add         r13,0FFFFFFFFFFFFFFE0h  
+00007FFDB77CCABF 49 8B CD             mov         rcx,r13  
+00007FFDB77CCAC2 E8 39 03 00 00       call        EtwpWaitForBufferReferenceCount (07FFDB77CCE00h)  
+00007FFDB77CCAC7 44 0F B7 44 24 58    movzx       r8d,word ptr [rsp+58h]  
+00007FFDB77CCACD 49 8B D5             mov         rdx,r13  
+00007FFDB77CCAD0 48 8B CB             mov         rcx,rbx  
+00007FFDB77CCAD3 E8 8C 01 00 00       call        EtwpFlushBuffer (07FFDB77CCC64h)  
+00007FFDB77CCAD8 8B F0                mov         esi,eax  
+00007FFDB77CCADA B8 00 00 00 80       mov         eax,80000000h  
+00007FFDB77CCADF 8D 0C 06             lea         ecx,[rsi+rax]  
+00007FFDB77CCAE2 85 C8                test        eax,ecx  
+00007FFDB77CCAE4 74 7E                je          EtwpFlushActiveBuffers+158h (07FFDB77CCB64h)  
+00007FFDB77CCAE6 48 8B CD             mov         rcx,rbp  
+00007FFDB77CCAE9 E8 92 E8 FA FF       call        RtlEnterCriticalSection (07FFDB777B380h)  
+00007FFDB77CCAEE 45 21 65 2C          and         dword ptr [r13+2Ch],r12d  
+00007FFDB77CCAF2 B8 01 00 00 00       mov         eax,1  
+00007FFDB77CCAF7 4D 21 27             and         qword ptr [r15],r12  
+00007FFDB77CCAFA F0 48 0F C1 83 A0 01 00 00 lock xadd   qword ptr [rbx+1A0h],rax  
+00007FFDB77CCB03 48 FF C0             inc         rax  
+00007FFDB77CCB06 49 89 45 18          mov         qword ptr [r13+18h],rax  
+00007FFDB77CCB0A 48 8B 83 00 01 00 00 mov         rax,qword ptr [rbx+100h]  
+00007FFDB77CCB11 4C 89 38             mov         qword ptr [rax],r15  
+00007FFDB77CCB14 4C 89 BB 00 01 00 00 mov         qword ptr [rbx+100h],r15  
+00007FFDB77CCB1B F0 FF 83 E4 00 00 00 lock inc    dword ptr [rbx+0E4h]  
+00007FFDB77CCB22 48 8B CD             mov         rcx,rbp  
+00007FFDB77CCB25 E8 56 DE FC FF       call        RtlLeaveCriticalSection (07FFDB779A980h)  
+00007FFDB77CCB2A 48 8D 4B 50          lea         rcx,[rbx+50h]  
+00007FFDB77CCB2E E8 BD 00 00 00       call        RtlWakeAllConditionVariable (07FFDB77CCBF0h)  
+00007FFDB77CCB33 44 0F B7 6C 24 58    movzx       r13d,word ptr [rsp+58h]  
+00007FFDB77CCB39 89 73 28             mov         dword ptr [rbx+28h],esi  
+00007FFDB77CCB3C 48 85 FF             test        rdi,rdi  
+00007FFDB77CCB3F 0F 85 59 FF FF FF    jne         EtwpFlushActiveBuffers+92h (07FFDB77CCA9Eh)  
+00007FFDB77CCB45 48 8B 5C 24 50       mov         rbx,qword ptr [rsp+50h]  
+00007FFDB77CCB4A 8B C6                mov         eax,esi  
+00007FFDB77CCB4C 48 8B 74 24 68       mov         rsi,qword ptr [rsp+68h]  
+00007FFDB77CCB51 48 8B 6C 24 60       mov         rbp,qword ptr [rsp+60h]  
+00007FFDB77CCB56 48 83 C4 20          add         rsp,20h  
+00007FFDB77CCB5A 41 5F                pop         r15  
+00007FFDB77CCB5C 41 5E                pop         r14  
+00007FFDB77CCB5E 41 5D                pop         r13  
+00007FFDB77CCB60 41 5C                pop         r12  
+00007FFDB77CCB62 5F                   pop         rdi  
+00007FFDB77CCB63 C3                   ret  
+00007FFDB77CCB64 81 FE 22 00 00 80    cmp         esi,80000022h  
+00007FFDB77CCB6A 0F 84 76 FF FF FF    je          EtwpFlushActiveBuffers+0DAh (07FFDB77CCAE6h)  
+00007FFDB77CCB70 E9 2B 3A 05 00       jmp         memset+1D620h (07FFDB78205A0h)  
+00007FFDB77CCB75 85 FF                test        edi,edi  
+00007FFDB77CCB77 0F 84 DE FE FF FF    je          EtwpFlushActiveBuffers+4Fh (07FFDB77CCA5Bh)  
+00007FFDB77CCB7D 48 8D 93 40 02 00 00 lea         rdx,[rbx+240h]  
+00007FFDB77CCB84 4C 8B C7             mov         r8,rdi  
+00007FFDB77CCB87 48 8B 0A             mov         rcx,qword ptr [rdx]  
+00007FFDB77CCB8A 48 85 C9             test        rcx,rcx  
+00007FFDB77CCB8D 75 0F                jne         EtwpFlushActiveBuffers+192h (07FFDB77CCB9Eh)  
+00007FFDB77CCB8F 48 83 C2 08          add         rdx,8  
+00007FFDB77CCB93 ??                   ?? ?? 
+00007FFDB77CCB94 ??                   ?? ?? 
+00007FFDB77CCB95 ??                   ?? ?? 
+00007FFDB77CCB96 ??                   ?? ?? 
+00007FFDB77CCB97 ??                   ?? ?? 
+00007FFDB77CCB98 ??                   ?? ?? 
+00007FFDB77CCB99 ??                   ?? ?? 
+00007FFDB77CCB9A ??                   ?? ?? 
+00007FFDB77CCB9B ??                   ?? ?? 
+00007FFDB77CCB9C ??                   ?? ?? 
+00007FFDB77CCB9D ??                   ?? ?? 
+00007FFDB77CCB9E ??                   ?? ?? 
+00007FFDB77CCB9F ??                   ?? ?? 
+00007FFDB77CCBA0 ??                   ?? ?? 
+00007FFDB77CCBA1 ??                   ?? ?? 
+00007FFDB77CCBA2 ??                   ?? ?? 
+00007FFDB77CCBA3 ??                   ?? ?? 
+00007FFDB77CCBA4 ??                   ?? ?? 
+00007FFDB77CCBA5 ??                   ?? ?? 
+00007FFDB77CCBA6 ??                   ?? ?? 
+00007FFDB77CCBA7 ??                   ?? ?? 
+00007FFDB77CCBA8 ??                   ?? ?? 
+00007FFDB77CCBA9 ??                   ?? ?? 
+00007FFDB77CCBAA ??                   ?? ?? 
+00007FFDB77CCBAB ??                   ?? ?? 
+00007FFDB77CCBAC ??                   ?? ?? 
+00007FFDB77CCBAD ??                   ?? ?? 
+00007FFDB77CCBAE ??                   ?? ?? 
+00007FFDB77CCBAF ??                   ?? ?? 
+00007FFDB77CCBB0 ??                   ?? ?? 
+00007FFDB77CCBB1 ??                   ?? ?? 
+00007FFDB77CCBB2 ??                   ?? ?? 
+00007FFDB77CCBB3 ??                   ?? ?? 
+00007FFDB77CCBB4 ??                   ?? ?? 
+00007FFDB77CCBB5 03 89 41 04 C7 41    add         ecx,dword ptr [rcx+41C70441h]  
+00007FFDB77CCBBB ??                   ?? ?? 
+00007FFDB77CCBBC ??                   ?? ?? 
+00007FFDB77CCBBD ??                   ?? ?? 
+00007FFDB77CCBBE ??                   ?? ?? 
+00007FFDB77CCBBF ??                   ?? ?? 
+00007FFDB77CCBC0 ??                   ?? ?? 
+00007FFDB77CCBC1 ??                   ?? ?? 
+00007FFDB77CCBC2 ??                   ?? ?? 
+00007FFDB77CCBC3 ??                   ?? ?? 
+00007FFDB77CCBC4 ??                   ?? ?? 
+00007FFDB77CCBC5 ??                   ?? ?? 
+00007FFDB77CCBC6 ??                   ?? ?? 
+00007FFDB77CCBC7 ??                   ?? ?? 
+00007FFDB77CCBC8 ??                   ?? ?? 
+00007FFDB77CCBC9 ??                   ?? ?? 
+00007FFDB77CCBCA ??                   ?? ?? 
+00007FFDB77CCBCB ??                   ?? ?? 
+00007FFDB77CCBCC ??                   ?? ?? 
+00007FFDB77CCBCD ??                   ?? ?? 
+00007FFDB77CCBCE ??                   ?? ?? 
+00007FFDB77CCBCF ??                   ?? ?? 
+00007FFDB77CCBD0 ??                   ?? ?? 
+00007FFDB77CCBD1 ??                   ?? ?? 
+00007FFDB77CCBD2 ??                   ?? ?? 
+00007FFDB77CCBD3 ??                   ?? ?? 
+00007FFDB77CCBD4 ??                   ?? ?? 
+00007FFDB77CCBD5 ??                   ?? ?? 
+00007FFDB77CCBD6 ??                   ?? ?? 
+00007FFDB77CCBD7 ??                   ?? ?? 
+00007FFDB77CCBD8 ??                   ?? ?? 
+00007FFDB77CCBD9 ??                   ?? ?? 
+00007FFDB77CCBDA ??                   ?? ?? 
+00007FFDB77CCBDB ??                   ?? ?? 
+00007FFDB77CCBDC ??                   ?? ?? 
+00007FFDB77CCBDD ??                   ?? ?? 
+00007FFDB77CCBDE ??                   ?? ?? 
+00007FFDB77CCBDF CC                   int         3  
+00007FFDB77CCBE0 CC                   int         3  
+00007FFDB77CCBE1 CC                   int         3  
+00007FFDB77CCBE2 CC                   int         3  
+00007FFDB77CCBE3 CC                   int         3  
+00007FFDB77CCBE4 CC                   int         3  
+00007FFDB77CCBE5 CC                   int         3  
+00007FFDB77CCBE6 CC                   int         3  
+00007FFDB77CCBE7 CC                   int         3  
+00007FFDB77CCBE8 CC                   int         3  
+00007FFDB77CCBE9 CC                   int         3  
+00007FFDB77CCBEA CC                   int         3  
+00007FFDB77CCBEB CC                   int         3  
+00007FFDB77CCBEC CC                   int         3  
+00007FFDB77CCBED CC                   int         3  
+00007FFDB77CCBEE CC                   int         3  
+00007FFDB77CCBEF CC                   int         3  
+00007FFDB77CCBF0 ??                   ?? ?? 
+00007FFDB77CCBF1 ??                   ?? ?? 
+00007FFDB77CCBF2 ??                   ?? ?? 
+00007FFDB77CCBF3 ??                   ?? ?? 
+00007FFDB77CCBF4 ??                   ?? ?? 
+00007FFDB77CCBF5 57                   push        rdi  
+00007FFDB77CCBF6 ??                   ?? ?? 
+00007FFDB77CCBF7 ??                   ?? ?? 
+00007FFDB77CCBF8 ??                   ?? ?? 
+00007FFDB77CCBF9 ??                   ?? ?? 
+00007FFDB77CCBFA ??                   ?? ?? 
+00007FFDB77CCBFB ??                   ?? ?? 
+00007FFDB77CCBFC ??                   ?? ?? 
+00007FFDB77CCBFD ??                   ?? ?? 
+00007FFDB77CCBFE ??                   ?? ?? 
+00007FFDB77CCBFF ??                   ?? ?? 
+00007FFDB77CCC00 ??                   ?? ?? 
+00007FFDB77CCC01 C1 48 85 D2          ror         dword ptr [rax-7Bh],0D2h  
+00007FFDB77CCC05 75 0B                jne         RtlWakeAllConditionVariable+22h (07FFDB77CCC12h)  
+00007FFDB77CCC07 48 8B 5C 24 30       mov         rbx,qword ptr [rsp+30h]  
+00007FFDB77CCC0C 48 83 C4 20          add         rsp,20h  
+00007FFDB77CCC10 5F                   pop         rdi  
+00007FFDB77CCC11 C3                   ret  
+00007FFDB77CCC12 8A C2                mov         al,dl  
+00007FFDB77CCC14 24 07                and         al,7  
+00007FFDB77CCC16 3C 07                cmp         al,7  
+00007FFDB77CCC18 74 ED                je          RtlWakeAllConditionVariable+17h (07FFDB77CCC07h)  
+00007FFDB77CCC1A 48 8B C2             mov         rax,rdx  
+00007FFDB77CCC1D F6 C2 08             test        dl,8  
+00007FFDB77CCC20 0F 85 90 39 05 00    jne         memset+1D636h (07FFDB78205B6h)  
+00007FFDB77CCC26 F0 49 0F B1 38       lock cmpxchg qword ptr [r8],rdi  
+00007FFDB77CCC2B 0F 85 97 39 05 00    jne         memset+1D648h (07FFDB78205C8h)  
+00007FFDB77CCC31 48 83 E2 F0          and         rdx,0FFFFFFFFFFFFFFF0h  
+00007FFDB77CCC35 74 D0                je          RtlWakeAllConditionVariable+17h (07FFDB77CCC07h)  
+00007FFDB77CCC37 48 8B 1A             mov         rbx,qword ptr [rdx]  
+00007FFDB77CCC3A F0 0F BA 6A 24 02    lock bts    dword ptr [rdx+24h],2  
+00007FFDB77CCC40 F0 0F BA 72 24 01    lock btr    dword ptr [rdx+24h],1  
+00007FFDB77CCC46 73 0A                jae         RtlWakeAllConditionVariable+62h (07FFDB77CCC52h)  
+00007FFDB77CCC48 48 8B D3             mov         rdx,rbx  
+00007FFDB77CCC4B 48 85 DB             test        rbx,rbx  
+00007FFDB77CCC4E 74 B7                je          RtlWakeAllConditionVariable+17h (07FFDB77CCC07h)  
+00007FFDB77CCC50 EB E5                jmp         RtlWakeAllConditionVariable+47h (07FFDB77CCC37h)  
+00007FFDB77CCC52 48 8B 4A 18          mov         rcx,qword ptr [rdx+18h]  
+00007FFDB77CCC56 E8 D5 01 03 00       call        NtAlertThreadByThreadId (07FFDB77FCE30h)  
+00007FFDB77CCC5B EB EB                jmp         RtlWakeAllConditionVariable+58h (07FFDB77CCC48h)  
+00007FFDB77CCC5D CC                   int         3  
+00007FFDB77CCC5E CC                   int         3  
+00007FFDB77CCC5F CC                   int         3  
+00007FFDB77CCC60 CC                   int         3  
+00007FFDB77CCC61 CC                   int         3  
+00007FFDB77CCC62 CC                   int         3  
+00007FFDB77CCC63 CC                   int         3  
+EtwpFlushBuffer:
+00007FFDB77CCC64 48 8B C4             mov         rax,rsp  
+00007FFDB77CCC67 48 89 58 08          mov         qword ptr [rax+8],rbx  
+00007FFDB77CCC6B 48 89 68 18          mov         qword ptr [rax+18h],rbp  
+00007FFDB77CCC6F 56                   push        rsi  
+00007FFDB77CCC70 57                   push        rdi  
+00007FFDB77CCC71 41 56                push        r14  
+00007FFDB77CCC73 48 83 EC 60          sub         rsp,60h  
+00007FFDB77CCC77 45 33 C9             xor         r9d,r9d  
+00007FFDB77CCC7A 45 33 D2             xor         r10d,r10d  
+00007FFDB77CCC7D 44 21 48 20          and         dword ptr [rax+20h],r9d  
+00007FFDB77CCC81 48 8B FA             mov         rdi,rdx  
+00007FFDB77CCC84 44 89 50 10          mov         dword ptr [rax+10h],r10d  
+00007FFDB77CCC88 48 8B D9             mov         rbx,rcx  
+00007FFDB77CCC8B 8B 42 04             mov         eax,dword ptr [rdx+4]  
+00007FFDB77CCC8E 85 C0                test        eax,eax  
+00007FFDB77CCC90 0F 84 44 39 05 00    je          memset+1D65Ah (07FFDB78205DAh)  
+00007FFDB77CCC96 89 42 30             mov         dword ptr [rdx+30h],eax  
+00007FFDB77CCC99 BE 01 00 00 00       mov         esi,1  
+00007FFDB77CCC9E 83 F8 48             cmp         eax,48h  
+00007FFDB77CCCA1 0F 84 43 39 05 00    je          memset+1D66Ah (07FFDB78205EAh)  
+00007FFDB77CCCA7 4C 39 89 90 00 00 00 cmp         qword ptr [rcx+90h],r9  
+00007FFDB77CCCAE 0F 84 0F 01 00 00    je          EtwpFlushBuffer+15Fh (07FFDB77CCDC3h)  
+00007FFDB77CCCB4 8B 91 44 01 00 00    mov         edx,dword ptr [rcx+144h]  
+00007FFDB77CCCBA 41 BE 00 00 00 04    mov         r14d,4000000h  
+00007FFDB77CCCC0 44 8B 9B 40 01 00 00 mov         r11d,dword ptr [rbx+140h]  
+00007FFDB77CCCC7 8B CA                mov         ecx,edx  
+00007FFDB77CCCC9 8B AB D0 00 00 00    mov         ebp,dword ptr [rbx+0D0h]  
+00007FFDB77CCCCF C1 E9 02             shr         ecx,2  
+00007FFDB77CCCD2 83 E1 02             and         ecx,2  
+00007FFDB77CCCD5 45 85 DB             test        r11d,r11d  
+00007FFDB77CCCD8 74 3E                je          EtwpFlushBuffer+0B4h (07FFDB77CCD18h)  
+00007FFDB77CCCDA 41 85 D6             test        r14d,edx  
+00007FFDB77CCCDD 0F 85 1C 39 05 00    jne         memset+1D67Fh (07FFDB78205FFh)  
+00007FFDB77CCCE3 44 8B 8B 50 01 00 00 mov         r9d,dword ptr [rbx+150h]  
+00007FFDB77CCCEA 44 03 C9             add         r9d,ecx  
+00007FFDB77CCCED 4C 0F AF CD          imul        r9,rbp  
+00007FFDB77CCCF1 8B C2                mov         eax,edx  
+00007FFDB77CCCF3 25 00 20 00 00       and         eax,2000h  
+00007FFDB77CCCF8 F7 D8                neg         eax  
+00007FFDB77CCCFA 48 1B C9             sbb         rcx,rcx  
+00007FFDB77CCCFD 48 81 E1 00 04 F0 FF and         rcx,0FFFFFFFFFFF00400h  
+00007FFDB77CCD04 48 81 C1 00 00 10 00 add         rcx,100000h  
+00007FFDB77CCD0B 49 0F AF CB          imul        rcx,r11  
+00007FFDB77CCD0F 4C 3B C9             cmp         r9,rcx  
+00007FFDB77CCD12 0F 83 F3 38 05 00    jae         memset+1D68Bh (07FFDB782060Bh)  
+00007FFDB77CCD18 66 41 83 C8 20       or          r8w,20h  
+00007FFDB77CCD1D B8 14 00 FE 7F       mov         eax,7FFE0014h  
+00007FFDB77CCD22 66 44 89 47 34       mov         word ptr [rdi+34h],r8w  
+00007FFDB77CCD27 48 8B 00             mov         rax,qword ptr [rax]  
+00007FFDB77CCD2A 48 89 47 10          mov         qword ptr [rdi+10h],rax  
+00007FFDB77CCD2E 44 85 B3 44 01 00 00 test        dword ptr [rbx+144h],r14d  
+00007FFDB77CCD35 0F 85 15 39 05 00    jne         memset+1D6D0h (07FFDB7820650h)  
+00007FFDB77CCD3B 39 6F 30             cmp         dword ptr [rdi+30h],ebp  
+00007FFDB77CCD3E 73 17                jae         EtwpFlushBuffer+0F3h (07FFDB77CCD57h)  
+00007FFDB77CCD40 8B 4F 30             mov         ecx,dword ptr [rdi+30h]  
+00007FFDB77CCD43 44 8B C5             mov         r8d,ebp  
+00007FFDB77CCD46 44 2B 47 30          sub         r8d,dword ptr [rdi+30h]  
+00007FFDB77CCD4A 48 03 CF             add         rcx,rdi  
+00007FFDB77CCD4D BA FF 00 00 00       mov         edx,0FFh  
+00007FFDB77CCD52 E8 29 62 03 00       call        memset (07FFDB7802F80h)  
+00007FFDB77CCD57 48 83 64 24 40 00    and         qword ptr [rsp+40h],0  
+00007FFDB77CCD5D 48 8D 44 24 50       lea         rax,[rsp+50h]  
+00007FFDB77CCD62 48 8B 8B 90 00 00 00 mov         rcx,qword ptr [rbx+90h]  
+00007FFDB77CCD69 4C 8D B3 68 01 00 00 lea         r14,[rbx+168h]  
+00007FFDB77CCD70 4C 89 74 24 38       mov         qword ptr [rsp+38h],r14  
+00007FFDB77CCD75 45 33 C9             xor         r9d,r9d  
+00007FFDB77CCD78 89 6C 24 30          mov         dword ptr [rsp+30h],ebp  
+00007FFDB77CCD7C 45 33 C0             xor         r8d,r8d  
+00007FFDB77CCD7F 48 89 7C 24 28       mov         qword ptr [rsp+28h],rdi  
+00007FFDB77CCD84 33 D2                xor         edx,edx  
+00007FFDB77CCD86 48 89 44 24 20       mov         qword ptr [rsp+20h],rax  
+00007FFDB77CCD8B E8 D0 F3 02 00       call        NtWriteFile (07FFDB77FC160h)  
+00007FFDB77CCD90 44 8B C8             mov         r9d,eax  
+00007FFDB77CCD93 85 C0                test        eax,eax  
+00007FFDB77CCD95 78 58                js          EtwpFlushBuffer+18Bh (07FFDB77CCDEFh)  
+00007FFDB77CCD97 49 01 2E             add         qword ptr [r14],rbp  
+00007FFDB77CCD9A 44 8B 94 24 88 00 00 00 mov         r10d,dword ptr [rsp+88h]  
+00007FFDB77CCDA2 45 85 C9             test        r9d,r9d  
+00007FFDB77CCDA5 0F 88 D7 38 05 00    js          memset+1D702h (07FFDB7820682h)  
+00007FFDB77CCDAB 01 B3 88 01 00 00    add         dword ptr [rbx+188h],esi  
+00007FFDB77CCDB1 01 B3 50 01 00 00    add         dword ptr [rbx+150h],esi  
+00007FFDB77CCDB7 F7 83 44 01 00 00 00 00 01 00 test        dword ptr [rbx+144h],10000h  
+00007FFDB77CCDC1 75 18                jne         EtwpFlushBuffer+177h (07FFDB77CCDDBh)  
+00007FFDB77CCDC3 4C 8D 5C 24 60       lea         r11,[rsp+60h]  
+00007FFDB77CCDC8 41 8B C1             mov         eax,r9d  
+00007FFDB77CCDCB 49 8B 5B 20          mov         rbx,qword ptr [r11+20h]  
+00007FFDB77CCDCF 49 8B 6B 30          mov         rbp,qword ptr [r11+30h]  
+00007FFDB77CCDD3 49 8B E3             mov         rsp,r11  
+00007FFDB77CCDD6 41 5E                pop         r14  
+00007FFDB77CCDD8 5F                   pop         rdi  
+00007FFDB77CCDD9 5E                   pop         rsi  
+00007FFDB77CCDDA C3                   ret  
+00007FFDB77CCDDB 0F B7 47 2A          movzx       eax,word ptr [rdi+2Ah]  
+00007FFDB77CCDDF 48 8D 0C 40          lea         rcx,[rax+rax*2]  
+00007FFDB77CCDE3 48 8B 83 00 02 00 00 mov         rax,qword ptr [rbx+200h]  
+00007FFDB77CCDEA 01 34 88             add         dword ptr [rax+rcx*4],esi  
+00007FFDB77CCDED EB D4                jmp         EtwpFlushBuffer+15Fh (07FFDB77CCDC3h)  
+00007FFDB77CCDEF 44 8B D6             mov         r10d,esi  
+00007FFDB77CCDF2 E9 7F 38 05 00       jmp         memset+1D6F6h (07FFDB7820676h)  
+00007FFDB77CCDF7 CC                   int         3  
+00007FFDB77CCDF8 CC                   int         3  
+00007FFDB77CCDF9 CC                   int         3  
+00007FFDB77CCDFA CC                   int         3  
+00007FFDB77CCDFB CC                   int         3  
+00007FFDB77CCDFC CC                   int         3  
+00007FFDB77CCDFD CC                   int         3  
+00007FFDB77CCDFE CC                   int         3  
+00007FFDB77CCDFF CC                   int         3  
+EtwpWaitForBufferReferenceCount:
+00007FFDB77CCE00 40 53                push        rbx  
+00007FFDB77CCE02 48 83 EC 20          sub         rsp,20h  
+00007FFDB77CCE06 8B 41 0C             mov         eax,dword ptr [rcx+0Ch]  
+00007FFDB77CCE09 48 8B D9             mov         rbx,rcx  
+00007FFDB77CCE0C 48 C7 44 24 30 60 DA D9 FF mov         qword ptr [rsp+30h],0FFFFFFFFFFD9DA60h  
+00007FFDB77CCE15 85 C0                test        eax,eax  
+00007FFDB77CCE17 0F 85 A3 38 05 00    jne         memset+1D740h (07FFDB78206C0h)  
+00007FFDB77CCE1D 48 83 C4 20          add         rsp,20h  
+00007FFDB77CCE21 5B                   pop         rbx  
+00007FFDB77CCE22 C3                   ret  
+00007FFDB77CCE23 CC                   int         3  
+00007FFDB77CCE24 CC                   int         3  
+00007FFDB77CCE25 CC                   int         3  
+00007FFDB77CCE26 CC                   int         3  
+00007FFDB77CCE27 CC                   int         3  
+00007FFDB77CCE28 CC                   int         3  
+00007FFDB77CCE29 CC                   int         3  
+00007FFDB77CCE2A CC                   int         3  
+00007FFDB77CCE2B CC                   int         3  
+00007FFDB77CCE2C CC                   int         3  
+00007FFDB77CCE2D CC                   int         3  
+00007FFDB77CCE2E CC                   int         3  
+00007FFDB77CCE2F CC                   int         3  
+RtlUserThreadStart:
+00007FFDB77CCE30 48 83 EC 78          sub         rsp,78h  
+00007FFDB77CCE34 4C 8B C9             mov         r9,rcx  
+00007FFDB77CCE37 48 8B 05 B2 80 0F 00 mov         rax,qword ptr [Kernel32ThreadInitThunkFunction (07FFDB78C4EF0h)]  
+00007FFDB77CCE3E 48 85 C0             test        rax,rax  
+00007FFDB77CCE41 74 10                je          RtlUserThreadStart+23h (07FFDB77CCE53h)  
+00007FFDB77CCE43 4C 8B C2             mov         r8,rdx  
+00007FFDB77CCE46 48 8B D1             mov         rdx,rcx  
+00007FFDB77CCE49 33 C9                xor         ecx,ecx  
+00007FFDB77CCE4B FF 15 AF 11 11 00    call        qword ptr [__guard_dispatch_icall_fptr (07FFDB78DE000h)]  
+00007FFDB77CCE51 EB 20                jmp         RtlUserThreadStart+43h (07FFDB77CCE73h)  
+00007FFDB77CCE53 48 8B CA             mov         rcx,rdx  
+00007FFDB77CCE56 49 8B C1             mov         rax,r9  
+00007FFDB77CCE59 FF 15 A1 11 11 00    call        qword ptr [__guard_dispatch_icall_fptr (07FFDB78DE000h)]  
+00007FFDB77CCE5F 8B C8                mov         ecx,eax  
+00007FFDB77CCE61 E8 1A 00 00 00       call        RtlExitUserThread (07FFDB77CCE80h)  
+00007FFDB77CCE66 90                   nop  
+00007FFDB77CCE67 8B D0                mov         edx,eax  
+00007FFDB77CCE69 48 83 C9 FF          or          rcx,0FFFFFFFFFFFFFFFFh  
+00007FFDB77CCE6D E8 6E F7 02 00       call        NtTerminateProcess (07FFDB77FC5E0h)  
+00007FFDB77CCE72 90                   nop  
+00007FFDB77CCE73 48 83 C4 78          add         rsp,78h  
+00007FFDB77CCE77 C3                   ret  
+00007FFDB77CCE78 CC                   int         3  
+00007FFDB77CCE79 CC                   int         3  
+00007FFDB77CCE7A CC                   int         3  
+00007FFDB77CCE7B CC                   int         3  
+00007FFDB77CCE7C CC                   int         3  
+00007FFDB77CCE7D CC                   int         3  
+00007FFDB77CCE7E CC                   int         3  
+00007FFDB77CCE7F CC                   int         3  
+RtlExitUserThread:
+00007FFDB77CCE80 40 53                push        rbx  
+00007FFDB77CCE82 48 83 EC 30          sub         rsp,30h  
+00007FFDB77CCE86 83 64 24 48 00       and         dword ptr [rsp+48h],0  
+00007FFDB77CCE8B 4C 8D 44 24 48       lea         r8,[rsp+48h]  
+00007FFDB77CCE90 48 83 64 24 20 00    and         qword ptr [rsp+20h],0  
+00007FFDB77CCE96 41 B9 04 00 00 00    mov         r9d,4  
+00007FFDB77CCE9C 8B D9                mov         ebx,ecx  
+00007FFDB77CCE9E 48 C7 C1 FE FF FF FF mov         rcx,0FFFFFFFFFFFFFFFEh  
+00007FFDB77CCEA5 41 8D 51 08          lea         edx,[r9+8]  
+00007FFDB77CCEA9 E8 52 F6 02 00       call        NtQueryInformationThread (07FFDB77FC500h)  
+00007FFDB77CCEAE 85 C0                test        eax,eax  
+00007FFDB77CCEB0 78 07                js          RtlExitUserThread+39h (07FFDB77CCEB9h)  
+00007FFDB77CCEB2 83 7C 24 48 00       cmp         dword ptr [rsp+48h],0  
+00007FFDB77CCEB7 75 15                jne         RtlExitUserThread+4Eh (07FFDB77CCECEh)  
+00007FFDB77CCEB9 E8 62 5B FB FF       call        LdrShutdownThread (07FFDB7782A20h)  
+00007FFDB77CCEBE 33 C9                xor         ecx,ecx  
+00007FFDB77CCEC0 E8 1B 00 00 00       call        TpCheckTerminateWorker (07FFDB77CCEE0h)  
+00007FFDB77CCEC5 8B D3                mov         edx,ebx  
+00007FFDB77CCEC7 33 C9                xor         ecx,ecx  
+00007FFDB77CCEC9 E8 F2 FB 02 00       call        NtTerminateThread (07FFDB77FCAC0h)  
+00007FFDB77CCECE 8B CB                mov         ecx,ebx  
+00007FFDB77CCED0 E8 AB D9 FF FF       call        RtlExitUserProcess (07FFDB77CA880h)  
+00007FFDB77CCED5 CC                   int         3  
+00007FFDB77CCED6 CC                   int         3  
+00007FFDB77CCED7 CC                   int         3  
+00007FFDB77CCED8 CC                   int         3  
+00007FFDB77CCED9 CC                   int         3  
+00007FFDB77CCEDA CC                   int         3  
+00007FFDB77CCEDB CC                   int         3  
+00007FFDB77CCEDC CC                   int         3  
+00007FFDB77CCEDD CC                   int         3  
+00007FFDB77CCEDE CC                   int         3  
+00007FFDB77CCEDF CC                   int         3  
+TpCheckTerminateWorker:
+00007FFDB77CCEE0 40 53                push        rbx  
+00007FFDB77CCEE2 48 81 EC D0 00 00 00 sub         rsp,0D0h  
+00007FFDB77CCEE9 48 8B 05 F0 05 11 00 mov         rax,qword ptr [__security_cookie (07FFDB78DD4E0h)]  
+00007FFDB77CCEF0 48 33 C4             xor         rax,rsp  
+00007FFDB77CCEF3 48 89 84 24 C0 00 00 00 mov         qword ptr [rsp+0C0h],rax  
+00007FFDB77CCEFB 48 8B D9             mov         rbx,rcx  
+00007FFDB77CCEFE E8 29 00 00 00       call        TppIsWorkerThread (07FFDB77CCF2Ch)  
+00007FFDB77CCF03 84 C0                test        al,al  
+00007FFDB77CCF05 0F 85 C9 37 05 00    jne         memset+1D754h (07FFDB78206D4h)  
+00007FFDB77CCF0B 48 8B 8C 24 C0 00 00 00 mov         rcx,qword ptr [rsp+0C0h]  
+00007FFDB77CCF13 48 33 CC             xor         rcx,rsp  
+00007FFDB77CCF16 E8 15 F2 01 00       call        __security_check_cookie (07FFDB77EC130h)  
+00007FFDB77CCF1B 48 81 C4 D0 00 00 00 add         rsp,0D0h  
+00007FFDB77CCF22 5B                   pop         rbx  
+00007FFDB77CCF23 C3                   ret  
+00007FFDB77CCF24 CC                   int         3  
+00007FFDB77CCF25 CC                   int         3  
+00007FFDB77CCF26 CC                   int         3  
+00007FFDB77CCF27 CC                   int         3  
+00007FFDB77CCF28 CC                   int         3  
+00007FFDB77CCF29 CC                   int         3  
+00007FFDB77CCF2A CC                   int         3  
+00007FFDB77CCF2B CC                   int         3  
+TppIsWorkerThread:
+00007FFDB77CCF2C 48 89 5C 24 18       mov         qword ptr [rsp+18h],rbx  
+00007FFDB77CCF31 55                   push        rbp  
+00007FFDB77CCF32 48 8B EC             mov         rbp,rsp  
+00007FFDB77CCF35 48 81 EC 80 00 00 00 sub         rsp,80h  
+00007FFDB77CCF3C 48 83 65 18 00       and         qword ptr [rbp+18h],0  
+00007FFDB77CCF41 48 83 65 10 00       and         qword ptr [rbp+10h],0  
+00007FFDB77CCF46 65 48 8B 1C 25 30 00 00 00 mov         rbx,qword ptr gs:[30h]  
+00007FFDB77CCF4F 48 85 C9             test        rcx,rcx  
+00007FFDB77CCF52 75 1D                jne         TppIsWorkerThread+45h (07FFDB77CCF71h)  
+00007FFDB77CCF54 48 39 8B 78 17 00 00 cmp         qword ptr [rbx+1778h],rcx  
+00007FFDB77CCF5B 0F 95 C3             setne       bl  
+00007FFDB77CCF5E 8A C3                mov         al,bl  
+00007FFDB77CCF60 48 8B 9C 24 A0 00 00 00 mov         rbx,qword ptr [rsp+0A0h]  
+00007FFDB77CCF68 48 81 C4 80 00 00 00 add         rsp,80h  
+00007FFDB77CCF6F 5D                   pop         rbp  
+00007FFDB77CCF70 C3                   ret  
+00007FFDB77CCF71 83 64 24 30 00       and         dword ptr [rsp+30h],0  
+00007FFDB77CCF76 4C 8D 4D 10          lea         r9,[rbp+10h]  
+00007FFDB77CCF7A 83 64 24 28 00       and         dword ptr [rsp+28h],0  
+00007FFDB77CCF7F 48 83 C8 FF          or          rax,0FFFFFFFFFFFFFFFFh  
+00007FFDB77CCF83 48 8B D1             mov         rdx,rcx  
+00007FFDB77CCF86 C7 44 24 20 18 08 00 00 mov         dword ptr [rsp+20h],818h  
+00007FFDB77CCF8E 4C 8B C0             mov         r8,rax  
+00007FFDB77CCF91 48 8B C8             mov         rcx,rax  
+00007FFDB77CCF94 E8 47 F8 02 00       call        NtDuplicateObject (07FFDB77FC7E0h)  
+00007FFDB77CCF99 85 C0                test        eax,eax  
+00007FFDB77CCF9B 0F 88 83 37 05 00    js          memset+1D7A4h (07FFDB7820724h)  
+00007FFDB77CCFA1 48 8B 4D 10          mov         rcx,qword ptr [rbp+10h]  
+00007FFDB77CCFA5 4C 8D 45 D0          lea         r8,[rbp-30h]  
+00007FFDB77CCFA9 48 83 64 24 20 00    and         qword ptr [rsp+20h],0  
+00007FFDB77CCFAF 41 B9 30 00 00 00    mov         r9d,30h  
+00007FFDB77CCFB5 33 D2                xor         edx,edx  
+00007FFDB77CCFB7 E8 44 F5 02 00       call        NtQueryInformationThread (07FFDB77FC500h)  
+00007FFDB77CCFBC 85 C0                test        eax,eax  
+00007FFDB77CCFBE 78 6E                js          TppIsWorkerThread+102h (07FFDB77CD02Eh)  
+00007FFDB77CCFC0 48 8B 45 E0          mov         rax,qword ptr [rbp-20h]  
+00007FFDB77CCFC4 48 39 43 40          cmp         qword ptr [rbx+40h],rax  
+00007FFDB77CCFC8 75 64                jne         TppIsWorkerThread+102h (07FFDB77CD02Eh)  
